@@ -34,7 +34,7 @@ Welcome to TPdsm! This tutorial will guide you through every step of using TPdsm
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/TPdsm.git
+git clone https://github.com/Project4bz2023/TPdsm.git
 cd TPdsm
 
 # 2. Create and activate conda environment

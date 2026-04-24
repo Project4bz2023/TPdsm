@@ -37,7 +37,7 @@ TPdsm is a synonymous mutation pathogenicity prediction tool that combines TabPF
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/TPdsm.git
+git clone https://github.com/Project4bz2023/TPdsm.git
 cd TPdsm
 
 # Create and activate conda environment
