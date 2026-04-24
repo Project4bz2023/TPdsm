@@ -1,0 +1,15 @@
+name: tpdsm
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy>=1.23.0
+  - pandas>=2.0.0
+  - scikit-learn>=1.2.0
+  - matplotlib>=3.7.0
+  - seaborn>=0.12.0
+  - tqdm>=4.65.0
+  - joblib>=1.2.0
+  - pip
+  - pip:
+    - tabpfn>=2.0.9
