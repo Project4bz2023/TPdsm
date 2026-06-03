@@ -113,7 +113,7 @@ This script:
 
 *   Loads a pre-trained TPdsm model and its selected features
 
-*   Compares TPdsm performance against 13 existing synonymous mutation prediction tools:
+*   Compares TPdsm performance against 14 existing synonymous mutation prediction tools:
 
     *   CADD
 
@@ -140,6 +140,8 @@ This script:
     *   Syntool
 
     *   usDSM
+    
+    *   SyMetrics
 
 *   Generates ROC and PRC curves in PDF format for all test sets
 
